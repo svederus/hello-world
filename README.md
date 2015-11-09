@@ -1,5 +1,5 @@
 # hello-world
-The first one
+Den första koden
  
-hej
+Hej! Jag heter Astrid och det här är min kod. 
 
